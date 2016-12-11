@@ -9,7 +9,7 @@
     "geom:bbox":"-67.99875,17.831509,-65.1685,18.568002",
     "geom:latitude":18.203114,
     "geom:longitude":-66.314955,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":19573.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House Districts not defined",
     "uscensus:sldlst":"ZZZ",
     "uscensus:statefp":"72",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85687331
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488055,
     "wof:geomhash":"e0b9cafaed502c7c797497314d27483e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85687331
+        }
+    ],
     "wof:id":1108773097,
     "wof:lastmodified":1481488055,
-    "wof:parent_id":-1,
+    "wof:parent_id":85687331,
     "wof:repo":"whosonfirst-data-constituency-us-pr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
